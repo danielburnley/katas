@@ -1,0 +1,8 @@
+# The directory Mix will write compiled artifacts to.
+/elixir/bowling_game/_build
+/elixir/bowling_game/cover
+/elixir/bowling_game/deps
+/elixir/bowling_game/doc
+/elixir/bowling_game/.fetch
+erl_crash.dump
+*.ez
